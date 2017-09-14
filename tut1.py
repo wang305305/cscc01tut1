@@ -1,5 +1,5 @@
 a = 2
-b = 'a'
+b = 'CONFLICT'
 c = 6
 d = "name"
 print(a,d)
